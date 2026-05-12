@@ -1,0 +1,8 @@
+Name,ADF Statistic,p-value,Lags Used,Stationary?,Critical 5%
+Reliance,-1.6857,0.4385,0,❌ No  → needs differencing,-2.8639
+HDFC Bank,-1.3959,0.5843,0,❌ No  → needs differencing,-2.8639
+Infosys,-2.3999,0.1418,0,❌ No  → needs differencing,-2.8639
+Sun Pharma,-0.8476,0.8047,13,❌ No  → needs differencing,-2.8639
+Maruti,0.4875,0.9845,2,❌ No  → needs differencing,-2.8639
+HUL,-2.8814,0.0475,0,✅ Yes,-2.8639
+Tata Steel,-1.7539,0.4036,0,❌ No  → needs differencing,-2.8639

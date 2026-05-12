@@ -1,0 +1,8 @@
+Name,ADF Statistic,p-value,Lags Used,Stationary?,Critical 5%
+Reliance,-21.2234,0.0,2,✅ Yes,-2.8639
+HDFC Bank,-14.0353,0.0,7,✅ Yes,-2.8639
+Infosys,-34.0327,0.0,0,✅ Yes,-2.8639
+Sun Pharma,-10.1058,0.0,12,✅ Yes,-2.8639
+Maruti,-24.9708,0.0,1,✅ Yes,-2.8639
+HUL,-35.1346,0.0,0,✅ Yes,-2.8639
+Tata Steel,-34.4039,0.0,0,✅ Yes,-2.8639

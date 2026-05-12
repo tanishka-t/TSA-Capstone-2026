@@ -1,0 +1,8 @@
+Stock,Best MAPE Model,MAPE,Best DirAcc Model,DirAcc (%)
+Reliance,LSTM,1.06,ARIMA,53.2
+HDFC Bank,LSTM,0.64,Prophet,57.3
+Infosys,LSTM,1.38,Prophet,53.2
+Sun Pharma,LSTM,1.6,Prophet,58.9
+Maruti,LSTM,2.55,Prophet,52.4
+HUL,LSTM,1.05,Prophet,58.1
+Tata Steel,LSTM,1.63,ARIMA,50.8

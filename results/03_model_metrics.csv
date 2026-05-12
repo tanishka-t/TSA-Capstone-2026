@@ -1,0 +1,22 @@
+model,stock,MAPE,RMSE,DirAcc
+ARIMA,Reliance,1.854,37.37,53.2
+ARIMA,HDFC Bank,1.21,16.84,52.4
+ARIMA,Infosys,2.324,43.78,50.8
+ARIMA,Sun Pharma,1.947,42.02,41.9
+ARIMA,Maruti,2.804,659.26,46.0
+ARIMA,HUL,3.343,102.91,55.6
+ARIMA,Tata Steel,2.562,6.44,50.8
+Prophet,Reliance,8.842,160.69,44.4
+Prophet,HDFC Bank,4.432,50.66,57.3
+Prophet,Infosys,15.057,240.91,53.2
+Prophet,Sun Pharma,11.541,211.74,58.9
+Prophet,Maruti,16.698,3086.91,52.4
+Prophet,HUL,3.376,98.19,58.1
+Prophet,Tata Steel,11.532,23.51,44.4
+LSTM,Reliance,1.147,21.02,54.0
+LSTM,HDFC Bank,0.626,7.61,53.2
+LSTM,Infosys,1.407,26.44,52.4
+LSTM,Sun Pharma,1.385,29.28,46.8
+LSTM,Maruti,1.555,305.71,45.2
+LSTM,HUL,1.019,37.16,48.4
+LSTM,Tata Steel,1.816,3.89,46.0
