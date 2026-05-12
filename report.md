@@ -254,17 +254,25 @@ Trades were placed on StockGro (NSE live data simulator) on **11 May 2026** at c
 
 **StockGro Portfolio — Day 1 (11 May 2026, 3:26 PM IST)**
 
-![StockGro Day 1 Portfolio - Part 1](stockgro_day1_portfolio1.png)
-![StockGro Day 1 Portfolio - Part 2](stockgro_day1_portfolio2.png)
+![Day 1 Portfolio Part 1](stockgro_day1_portfolio1.jpeg)
+![Day 1 Portfolio Part 2](stockgro_day1_portfolio2.jpeg)
 
-> Invested Value: ₹9,86,345.86 | Current Value at Day 1 close: ₹9,84,800.24 | Return: −0.15%
+| Summary | Value |
+|---------|-------|
+| Invested Value | ₹9,86,345.86 |
+| Current Value (Day 1 close) | ₹9,84,800.24 |
+| Return at Day 1 close | −₹1,545.62 (−0.15%) |
 
 **StockGro Portfolio — Day 2 (12 May 2026, 3:23 PM IST)**
 
-![StockGro Day 2 Portfolio - Overview](stockgro_day2_portfolio1.png)
-![StockGro Day 2 Portfolio - All Stocks](stockgro_day2_portfolio2.png)
+![Day 2 Portfolio Overview](stockgro_day2_portfolio1.jpeg)
+![Day 2 Portfolio All Stocks](stockgro_day2_portfolio2.jpeg)
 
-> Invested Value: ₹9,86,345.86 | Current Value at Day 2 close: ₹9,65,209.73 | Overall Return: −₹21,136.13 (−2.11%)
+| Summary | Value |
+|---------|-------|
+| Invested Value | ₹9,86,345.86 |
+| Current Value (Day 2 close) | ₹9,65,209.73 |
+| Overall Return | −₹21,136.13 (−2.11%) |
 
 | Stock | Shares | Buy Price (₹) | Exit Price (₹) | Return | P&L (₹) |
 |-------|--------|--------------|----------------|--------|---------|
