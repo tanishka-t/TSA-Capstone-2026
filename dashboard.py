@@ -88,12 +88,12 @@ page = st.sidebar.radio(
 if page == "Overview":
     st.header("Project Overview")
 
-    col1, col2, col3, col4, col5 = st.columns(5)
-    col1.metric("Stocks", "7")
+    col1, col2, col3, col4 = st.columns(4)
+    col1.metric("Stocks Analysed", "7")
     col2.metric("Data Window", "2021 – 2025")
-    col3.metric("Models", "ARIMA + Prophet")
-    col4.metric("", "+ LSTM")
-    col5.metric("Capital", "₹10,00,000")
+    col3.metric("Virtual Capital", "₹10,00,000")
+    col4.metric("Test Period Return", "−2.01%")
+    st.markdown("**Models:** ARIMA &nbsp;|&nbsp; Facebook Prophet &nbsp;|&nbsp; LSTM (2-layer, 60-day lookback)")
 
     st.markdown("---")
 
