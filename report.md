@@ -252,6 +252,20 @@ Across all metrics, LSTM consistently outperformed ARIMA and Prophet for this da
 
 Trades were placed on StockGro (NSE live data simulator) on **11 May 2026** at closing prices. Exit prices were recorded at closing on **12 May 2026**.
 
+**StockGro Portfolio — Day 1 (11 May 2026, 3:26 PM IST)**
+
+![StockGro Day 1 Portfolio - Part 1](stockgro_day1_portfolio1.png)
+![StockGro Day 1 Portfolio - Part 2](stockgro_day1_portfolio2.png)
+
+> Invested Value: ₹9,86,345.86 | Current Value at Day 1 close: ₹9,84,800.24 | Return: −0.15%
+
+**StockGro Portfolio — Day 2 (12 May 2026, 3:23 PM IST)**
+
+![StockGro Day 2 Portfolio - Overview](stockgro_day2_portfolio1.png)
+![StockGro Day 2 Portfolio - All Stocks](stockgro_day2_portfolio2.png)
+
+> Invested Value: ₹9,86,345.86 | Current Value at Day 2 close: ₹9,65,209.73 | Overall Return: −₹21,136.13 (−2.11%)
+
 | Stock | Shares | Buy Price (₹) | Exit Price (₹) | Return | P&L (₹) |
 |-------|--------|--------------|----------------|--------|---------|
 | HUL | 131 | 2,287.66 | 2,221.93 | −2.87% | −8,611 |
